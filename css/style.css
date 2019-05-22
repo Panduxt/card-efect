@@ -1,0 +1,27 @@
+.card-block{
+	margin-top: 30px;
+}
+
+.card-style{
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    transition: box-shadow 500ms;
+}
+
+.card-style:hover{
+      box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.3);
+
+}
+
+.title-text{
+	text-align: center;
+	color: #D32323;
+}
+
+.massage{
+	color: #333333;
+}
+
+.massage:hover{
+	color: #6490E1;
+	text-decoration: none;
+}
